@@ -12,6 +12,5 @@ You need to have python installed and a few python libraries:
 Clone this repository and then use this command to run the application: 
  - ```python agent.py```
 ## Instructions
-When the program start running the agent will spawn on screen and food will generate somewere away from the agent.
-Then the agent will chase the food, and when it reaches the food, it will disappear and reappear somewhere else, and so the score will increase and the loop continues.    
+When the program start running the agent will spawn on-screen and food will generate somewhere away from the agent. Then the agent will chase the food, and when it reaches the food, it will disappear and reappear somewhere else, the score will increase and the loop continues.  
 Press ESC to leave the screen
