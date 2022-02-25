@@ -5,7 +5,10 @@ Python program of a search agent, that keeps searching for food and runs towards
 ## How to run
 You need to have python installed and a few python libraries:
  - pygame 
-  - Can be installed by running ```pip install pygame```
+
+
+   - Can be installed by running ```pip install pygame```
+
 Clone this repository and then use this command to run the application: 
  - ```python agent.py```
 ## Instructions
